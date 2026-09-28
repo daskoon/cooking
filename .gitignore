@@ -1,0 +1,34 @@
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Android
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+*.aab
+
+# Capacitor
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+
+# Environment
+.env
+.env.*
+!.env.example
+
+*.mbox
+*.zip
+*.apk
+*.mp4
+*.blend
+*.msi
+*.vdi
+*.iso
+*.so
+*.dll
+*.bin
+*.dill
